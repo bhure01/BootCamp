@@ -1,0 +1,5 @@
+#!/bin/bash
+
+diceNumber=$((1+$RANDOM%6));
+echo $diceNumber;
+
